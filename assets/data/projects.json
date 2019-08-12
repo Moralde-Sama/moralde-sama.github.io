@@ -13,6 +13,17 @@
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
+        "description": "[On-Hold] A mobile application for viewing currently release anime(Schedule) and seasonal anime.",
+        "owner_link": "https://github.com/Moralde-Sama",
+        "technologies": ["Angular Framework" ,"Ionic Framework V4", "SASS", "Jikan API"],
+        "role": "Owner, Personal Project",
+        "title": "Anime-Schedule",
+        "github_repository": "https://github.com/Moralde-Sama/Anime-Schedule",
+        "website": ""
+    },
+    {
+        "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
+        "owner_name": "Moralde-Sama",
         "description": "[On-Hold] Mobile Application of Bandori Party Wiki using their API",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["Angular Framework" ,"Ionic Framework V4", "SASS"],
@@ -35,7 +46,7 @@
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
-        "description": "[Cancelled] Web platform for job seeker and companies recruiters.",
+        "description": "[Cancelled] Web platform for job seeker and recruiters.",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
         "role": "Full Stack Web Developer",
