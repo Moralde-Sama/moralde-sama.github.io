@@ -1,5 +1,16 @@
 [
     {
+        "owner_profile": "https://avatars0.githubusercontent.com/u/54500278?s=460&v=4",
+        "owner_name": "frankitomikito",
+        "description": "[Working] Restaurant Ordering and Reservation. Just helping my friends thesis.",
+        "owner_link": "https://github.com/Moralde-Sama",
+        "technologies": ["AngularJS", "PHP", "SASS"],
+        "role": "Contributor, Full Stack Web Developer",
+        "title": "Tak-Ang Restaurant",
+        "github_repository": "https://github.com/frankitomikito/Restaurant",
+        "website": ""
+    },
+    {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
         "description": "[On-Hold] My online portfolio",
