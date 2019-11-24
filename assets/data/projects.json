@@ -4,11 +4,11 @@
         "owner_name": "frankitomikito",
         "description": "[Working] Restaurant Ordering and Reservation. Just helping my friends thesis.",
         "owner_link": "https://github.com/frankitomikito",
-        "technologies": ["AngularJS", "Javascript", "PHP", "SASS"],
-        "role": "Contributor, Full Stack Web Developer",
+        "technologies": ["AngularJS", "PHP", "SASS"],
+        "role": "Contributor, Web Developer",
         "title": "Tak-Ang Restaurant",
-        "github_repository": "https://github.com/frankitomikito/Restaurant",
-        "website": ""
+        "github_repository": "https://github.com/Moralde-Sama/Restaurant",
+        "website": "https://takangrestaurant.xyz/"
     },
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
@@ -49,7 +49,7 @@
         "description": "[Abandoned] Online Enrollment of Davao Northphil for Thesis/Capstone Project",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
-        "role": "Full Stack Web Developer",
+        "role": "Web Developer",
         "title": "Davao Northphil Enrollment System",
         "github_repository": "https://github.com/Moralde-Sama/DNES",
         "website": ""
@@ -60,7 +60,7 @@
         "description": "[Cancelled] Web platform for job seeker and recruiters.",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
-        "role": "Full Stack Web Developer",
+        "role": "Web Developer",
         "title": "Job Seek Web",
         "github_repository": "https://github.com/Moralde-Sama/JobSeekWeb",
         "website": ""
@@ -71,7 +71,7 @@
         "description": "[Completed] A Project monitoring system (OJT Project).",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
-        "role": "Full Stack Web Developer",
+        "role": "Web Developer",
         "title": "Project Management Information System",
         "github_repository": "https://github.com/Moralde-Sama/PMISFinal",
         "website": ""
