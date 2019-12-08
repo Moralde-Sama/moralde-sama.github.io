@@ -1,16 +1,5 @@
 [
     {
-        "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
-        "owner_name": "Moralde-Sama",
-        "description": "[Working] Seasonal anime information (Reviewing PHP PL).",
-        "owner_link": "https://github.com/Moralde-Sama",
-        "technologies": ["PHP", "MySQL", "Typescript", "SASS"],
-        "role": "Owner, Personal Project",
-        "title": "Anime-Info",
-        "github_repository": "https://github.com/Moralde-Sama/Anime-Info",
-        "website": ""
-    },
-    {
         "owner_profile": "https://avatars0.githubusercontent.com/u/54500278?s=460&v=4",
         "owner_name": "frankitomikito",
         "description": "[Completed] Restaurant Ordering and Reservation. Helping my friends thesis.",
@@ -35,7 +24,7 @@
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
-        "description": "[On-Hold] A mobile application for viewing currently release anime(Schedule) and seasonal anime.",
+        "description": "[On-hold] A mobile application for viewing currently release anime(Schedule) and seasonal anime.",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["Angular Framework" ,"Ionic Framework V4", "SASS", "Jikan API"],
         "role": "Owner, Personal Project",
@@ -46,7 +35,7 @@
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
-        "description": "[On-Hold] Mobile Application of Bandori Party Wiki using their API",
+        "description": "[Cancelled] Mobile Application of Bandori Party Wiki using their API (Performance Issue on lower spec devices)",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["Angular Framework" ,"Ionic Framework V4", "SASS"],
         "role": "Owner, Personal Project",
@@ -57,23 +46,23 @@
     {
         "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
         "owner_name": "Moralde-Sama",
-        "description": "[Abandoned] Online Enrollment of Davao Northphil for Thesis/Capstone Project",
-        "owner_link": "https://github.com/Moralde-Sama",
-        "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
-        "role": "Web Developer",
-        "title": "Davao Northphil Enrollment System",
-        "github_repository": "https://github.com/Moralde-Sama/DNES",
-        "website": ""
-    },
-    {
-        "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
-        "owner_name": "Moralde-Sama",
         "description": "[Cancelled] Web platform for job seeker and recruiters.",
         "owner_link": "https://github.com/Moralde-Sama",
         "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
         "role": "Web Developer",
         "title": "Job Seek Web",
         "github_repository": "https://github.com/Moralde-Sama/JobSeekWeb",
+        "website": ""
+    },
+    {
+        "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
+        "owner_name": "Moralde-Sama",
+        "description": "[Completed] Online Enrollment of Davao Northphil for Thesis/Capstone Project",
+        "owner_link": "https://github.com/Moralde-Sama",
+        "technologies": ["ASP.NET MVC", "AngularJS", "MS SQL Server", "C#"],
+        "role": "Web Developer",
+        "title": "Davao Northphil Enrollment System",
+        "github_repository": "https://github.com/Moralde-Sama/DNES",
         "website": ""
     },
     {
