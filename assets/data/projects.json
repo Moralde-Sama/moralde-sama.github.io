@@ -1,5 +1,16 @@
 [
     {
+        "owner_profile": "https://avatars3.githubusercontent.com/u/41711381?v=4",
+        "owner_name": "Moralde-Sama",
+        "description": "[Building] Portfolio Version 2 written with Next.js for SSR",
+        "owner_link": "https://github.com/Moralde-Sama",
+        "technologies": ["Next.js", "ReactJS"],
+        "role": "Owner, Personal Project",
+        "title": "Portfolio V2",
+        "github_repository": "https://github.com/Moralde-Sama/Portfolio/tree/V2",
+        "website": ""
+    },
+    {
         "owner_profile": "https://avatars0.githubusercontent.com/u/54500278?s=460&v=4",
         "owner_name": "frankitomikito",
         "description": "[Completed] Restaurant Ordering and Reservation. Helping my friends thesis.",
