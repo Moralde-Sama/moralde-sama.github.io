@@ -1,10 +1,18 @@
 [
     {
+        "start": "February 14, 2020",
+        "end": "Present",
+        "company": "Provincial Government of Davao del Norte",
+        "position": "Admin Aide IV (Web Dev/Mobile Dev) - PHO",
+        "experience": "Professional Experience",
+        "description": "Building Web Application and Mobile Application using ASP.NET MVC, AngularJS and Flutter"
+    },
+    {
         "start": "June 11, 2018",
         "end": "September 10, 2018",
-        "company": "DavNor - Provincial Capitol Building, Tagum City",
+        "company": "Provincial Government of Davao del Norte",
         "position": "Web Developer - IT Division",
-        "experience": "Pre-Professional",
+        "experience": "Pre-Professional Experience",
         "description": "Building Website using ASP.NET MVC and AngularJS"
     }
 ]
