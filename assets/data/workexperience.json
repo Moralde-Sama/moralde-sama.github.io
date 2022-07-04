@@ -1,9 +1,25 @@
 [
     {
-        "start": "February 14, 2020",
+        "start": "January 01, 2022",
         "end": "Present",
-        "company": "Provincial Government of Davao del Norte",
-        "position": "Admin Aide IV (Web Dev/Mobile Dev) - PHO",
+        "company": "Provincial Health Office of Davao del Norte",
+        "position": "Computer Programmer I",
+        "experience": "Professional Experience",
+        "description": "Building Web Application and Mobile Application using ASP.NET MVC, AngularJS and Flutter"
+    },
+    {
+        "start": "July 01, 2021",
+        "end": "December 31, 2021",
+        "company": "Provincial Health Office of Davao del Norte",
+        "position": "Administrative Assistant II",
+        "experience": "Professional Experience",
+        "description": "Building Web Application and Mobile Application using ASP.NET MVC, AngularJS and Flutter"
+    },
+    {
+        "start": "February 14, 2020",
+        "end": "June 30, 2021",
+        "company": "Provincial Health Office of Davao del Norte",
+        "position": "Administrative Aide IV (Web Dev/Mobile Dev)",
         "experience": "Professional Experience",
         "description": "Building Web Application and Mobile Application using ASP.NET MVC, AngularJS and Flutter"
     },
