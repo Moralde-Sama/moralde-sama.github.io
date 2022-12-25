@@ -1,7 +1,15 @@
 [
     {
-        "start": "January 01, 2022",
+        "start": "July 20, 2022",
         "end": "Present",
+        "company": "Limecodes/Athena Tech",
+        "position": "Junior Web Developer",
+        "experience": "Professional Experience",
+        "description": "Building Web Application using Laravel and ReactJS"
+    },
+    {
+        "start": "January 01, 2022",
+        "end": "December 30, 2022",
         "company": "Provincial Health Office of Davao del Norte",
         "position": "Computer Programmer I",
         "experience": "Professional Experience",
